@@ -1,0 +1,646 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3143,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 718.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 190.0,
+				"last_filter": "view:",
+				"selected_items":
+				[
+					[
+						"view:",
+						"View: Toggle Menu"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					]
+				],
+				"width": 497.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/wrench/.config/sublime-text-3/Packages/User/Color Schemes/meme.sublime-package",
+				"/home/wrench/.XresourcesBak",
+				"/home/wrench/Downloads/userChrome.css",
+				"/home/wrench/cloud/Documents/About.txt",
+				"/home/wrench/showcase.html",
+				"/home/wrench/.Xresources",
+				"/home/wrench/Downloads/st-0.7/config.h",
+				"/home/wrench/XBackup",
+				"/home/wrench/Downloads/st-0.7/config.def.h",
+				"/home/wrench/.config/wal/colorschemes/original",
+				"/home/wrench/Downloads/Firefox Themes/bright from reddit",
+				"/home/wrench/fsoc",
+				"/home/wrench/Scripts/Perl/hello_world.pl",
+				"/home/wrench/Scripts/Perl/hmm.pl",
+				"/home/wrench/1/hi.html",
+				"/home/wrench/fsociety",
+				"/home/wrench/Downloads/st-0.7/config."
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"bold",
+					"font"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1336.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "◙ Cypherpunk Manifesto >>https://www.activism.net/cypherpunk/manifesto.html\n\n◘ Cyberpunk Manifesto >>http://project.cyberpunk.ru/idb/cyberpunk_manifesto.html\n\n∆ Hacker Manifesto >>http://phrack.org/issues/7/3.html\n\n± Guerilla Open Access Manifesto >>https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt\n\n▓ Fables, realities, prophecies and mythology of a community:\n\n░ What is cyberpunk >>https://pastebin.com/hHN5cBXB (embed)\n\n▀ The importance of a cyberpunk mindset applied to a cybersecurity skillset.: >[YouTube] Glenn Greenwald: Why privacy matters (embed) [Embed] [Embed] [Embed]\n\n● Cyberpunk directory: >https://pastebin.com/VAWNxkxH (embed)\n\n▬ Cyberpunk resources >https://pastebin.com/Dqfa6uXx (embed)\n\n▐ Cybersecurity essentials/resources\n\n>https://pastebin.com/SCUbhpjP (embed)\n>https://pastebin.com/VTXRAPxM (embed)\n\nCntrl + F Basic Knowledges, Basic Training, Arms/Arm >https://pastebin.com/rMw4WbhX (embed)\n\n▼ Endware: Heavy armor for anons, by anons >>https://endchan.xyz/os/res/32.html\n\n⦿ Shit just got real: >https://pastebin.com/rqrLK6X0 (embed)\n\nS archive: https://textfiles.com\n\nCybersecurity essentials/resources:\nReference books:\n>https://mega.nz/#F!YigVhZCZ!RznVxTiA0iN-N6Ps01pEJw\n>PASSWORD : ABD52oM8T1fghmY0\n\nftp://collectivecomputers.org:21212/Books/Cyberpunk/\n",
+					"settings":
+					{
+						"buffer_size": 1311,
+						"line_ending": "Unix",
+						"name": "◙ Cypherpunk Manifesto >>https://www.activism.net/"
+					}
+				},
+				{
+					"contents": "Step 1: To boot your Android into ClockworkMod Recovery Mode, you should press and hold the three key at the same time: the power button + home + volume up/down.\n\nStep 2: Check the connection if the ClockworkMod recovery loading is finished.\n\nStep 3: Type line\"adb devices\" in command prompts, without quotes.\n\nStep 4: Backup all data on Android device with:\n\n\"adb pull / data / media / clockworkmod / backup ~ / Desktop / Android-up\"\t",
+					"settings":
+					{
+						"buffer_size": 435,
+						"line_ending": "Unix",
+						"name": "Step 1: To boot your Android into ClockworkMod Rec"
+					}
+				},
+				{
+					"contents": "cat > version-check.sh << \"EOF\"\n#!/bin/bash\n# Simple script to list version numbers of critical development tools\nexport LC_ALL=C\nbash --version | head -n1 | cut -d\" \" -f2-4\nMYSH=$(readlink -f /bin/sh)\necho \"/bin/sh -> $MYSH\"\necho $MYSH | grep -q bash || echo \"ERROR: /bin/sh does not point to bash\"\nunset MYSH\necho -n \"Binutils: \"; ld --version | head -n1 | cut -d\" \" -f3-\nbison --version | head -n1\nif [ -h /usr/bin/yacc ]; then\n  echo \"/usr/bin/yacc -> `readlink -f /usr/bin/yacc`\";\nelif [ -x /usr/bin/yacc ]; then\n  echo yacc is `/usr/bin/yacc --version | head -n1`\nelse\n  echo \"yacc not found\" \nfi\nbzip2 --version 2>&1 < /dev/null | head -n1 | cut -d\" \" -f1,6-\necho -n \"Coreutils: \"; chown --version | head -n1 | cut -d\")\" -f2\ndiff --version | head -n1\nfind --version | head -n1\ngawk --version | head -n1\nif [ -h /usr/bin/awk ]; then\n  echo \"/usr/bin/awk -> `readlink -f /usr/bin/awk`\";\nelif [ -x /usr/bin/awk ]; then\n  echo awk is `/usr/bin/awk --version | head -n1`\nelse \n  echo \"awk not found\" \nfi\ngcc --version | head -n1\ng++ --version | head -n1\nldd --version | head -n1 | cut -d\" \" -f2-  # glibc version\ngrep --version | head -n1\ngzip --version | head -n1\ncat /proc/version\nm4 --version | head -n1\nmake --version | head -n1\npatch --version | head -n1\necho Perl `perl -V:version`\nsed --version | head -n1\ntar --version | head -n1\nmakeinfo --version | head -n1\nxz --version | head -n1\necho 'int main(){}' > dummy.c && g++ -o dummy dummy.c\nif [ -x dummy ]\n  then echo \"g++ compilation OK\";\n  else echo \"g++ compilation failed\"; fi\nrm -f dummy.c dummy\nEOF\nbash version-check.sh",
+					"settings":
+					{
+						"buffer_size": 1584,
+						"line_ending": "Unix",
+						"name": "cat > version-check.sh << \"EOF\""
+					}
+				},
+				{
+					"file": "/home/wrench/wget-list",
+					"settings":
+					{
+						"buffer_size": 5208,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "http://download.savannah.gnu.org/releases/acl/acl-"
+					}
+				},
+				{
+					"file": "/home/wrench/Projects/Site/css.css",
+					"settings":
+					{
+						"buffer_size": 315,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/wrench/Projects/Site/index.html",
+					"settings":
+					{
+						"buffer_size": 673,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "<html>"
+					}
+				},
+				{
+					"contents": "Music\n\nKRS One Attacks return of the boom bap\nD.I.T.C Day One\ngeto boys mind playin tricks on me\nRas Kass jack frost\nnas memory lane \nmachine gun funk biggie\nM.O.P ante up busta\nShowbiz & AG - Next Level (DJ Premier Mix)\nGift of Gab (feat. R.A. The Rugged Man and A-F-R-O) - Freedom Form Flowing (Official Music Video)\nMary Jane Girls - All Night Long\nThe Game, 50 Cent - Hate It Or Love It\nDMX - Where The Hood At\ni got two phones\nicarus flowers\n\n\nMovies/TV\n\nAkira\nInitial D\nLost in Translation",
+					"settings":
+					{
+						"buffer_size": 495,
+						"line_ending": "Unix",
+						"name": "Music"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 190.0,
+				"last_filter": "view:",
+				"selected_items":
+				[
+					[
+						"view:",
+						"View: Toggle Menu"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					]
+				],
+				"width": 497.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/wrench/cloud/Cyberpunk/installed packages",
+				"/home/wrench/cloud/Cyberpunk/cool shit",
+				"/home/wrench/Downloads/nanoblogger-3.5-rc1/welcome-to-nb.txt",
+				"/home/wrench/Downloads/nanoblogger-3.5-rc1/README",
+				"/home/wrench/blog/nb_edit-entry-2018-05-12T21_46_12.txt",
+				"/home/wrench/Projects/Site/files/cyb",
+				"/home/wrench/Projects/Site/.htaccess",
+				"/home/wrench/Projects/Site/index.php",
+				"/home/wrench/.Xresources",
+				"/etc/httpd/conf/httpd.conf",
+				"/home/wrench/strap.sh",
+				"/srv/http/instyle.css",
+				"/etc/httpd/conf/extra/httpd-vhosts.conf",
+				"/home/wrench/.config/sublime-text-3/Packages/User/Color Schemes/meme.sublime-package",
+				"/home/wrench/.XresourcesBak",
+				"/home/wrench/Downloads/userChrome.css",
+				"/home/wrench/cloud/Documents/About.txt",
+				"/home/wrench/showcase.html",
+				"/home/wrench/Downloads/st-0.7/config.h",
+				"/home/wrench/XBackup",
+				"/home/wrench/Downloads/st-0.7/config.def.h",
+				"/home/wrench/.config/wal/colorschemes/original",
+				"/home/wrench/Downloads/Firefox Themes/bright from reddit",
+				"/home/wrench/fsoc",
+				"/home/wrench/Scripts/Perl/hello_world.pl",
+				"/home/wrench/Scripts/Perl/hmm.pl",
+				"/home/wrench/1/hi.html",
+				"/home/wrench/fsociety",
+				"/home/wrench/Downloads/st-0.7/config."
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"android",
+					"bold",
+					"font"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1311,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										913,
+										913
+									]
+								],
+								"settings":
+								{
+									"auto_name": "◙ Cypherpunk Manifesto >>https://www.activism.net/",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 435,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										435,
+										435
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Step 1: To boot your Android into ClockworkMod Rec",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1584,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1584,
+										1584
+									]
+								],
+								"settings":
+								{
+									"auto_name": "cat > version-check.sh << \"EOF\"",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/wrench/wget-list",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5208,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5208,
+										5208
+									]
+								],
+								"settings":
+								{
+									"auto_name": "http://download.savannah.gnu.org/releases/acl/acl-",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 209.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/wrench/Projects/Site/css.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 315,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										100,
+										100
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/wrench/Projects/Site/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 673,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										169,
+										169
+									]
+								],
+								"settings":
+								{
+									"auto_name": "<html>",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 495,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										414,
+										414
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Music",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 18.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,15,15,1351,733,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

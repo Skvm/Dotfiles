@@ -1,0 +1,5 @@
+
+
+TypeError: Cannot read property 'server' of undefined
+    at chrome-extension://hecfofbbdfadifpemejbbdcjmfmboohj/src/app/lib/streamer.js:533:58
+    at chrome-extension://hecfofbbdfadifpemejbbdcjmfmboohj/src/app/lib/streamer.js:535:3

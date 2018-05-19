@@ -1,0 +1,67 @@
+XTerm*eightBitInput: false
+XTerm*metaSendsEscape: true
+*foreground:white
+*background:rgb:28/28/28
+!XTerm.vt100.faceName: MonteCarlo:size=7:antialias=true
+!XTerm*faceName:MonteCarlo
+!XTerm*faceSize:5
+!XTerm.vt100.locale: true
+
+!*font: -*-montecarlo-medium-r-normal-*-11-*-*-*-c-*-*-*
+!*faceName: hack:size=7:antialias=true
+!*faceName: lemon:size=7:antialias=true
+!URxvt.font: -*-lemon-*-*-*-*-*-*-*-*-*-*-*-*
+*font: -benis-lemon-medium-r-normal--10-110-75-75-m-50-ISO10646-1
+!*font: -*-hack-*-*-*-*-*-*-*-*-*-*-*-*
+!*font: -*-hack-medium-r-normal-*-11-*-*-*-*-*-*-*
+!xterm*font: -*-dina-medium-r-*-*-16-*-*-*-*-*-*-*
+!*foreground: rgb:dd/dd/dd
+!*background: rgb:1c/1c/1c
+XTerm*allowBoldFonts: false
+URxvt.boldFont:
+!*font:-*-terminus-medium-r-normal-*-16-*-*-*-*-*-iso10646-*
+!URxvt.font: xft:lemon:size=7:antialias=true
+!*font: xft:DejaVu Sans Mono:style=Book:pixelsize=12
+URxvt.scrollBar:false
+!URxvt.font: xft:Hack-Regular:pixelsize=9,xft:Symbola
+
+!colours
+*color0: rgb:4f/4f/4f
+*color1: rgb:a9/17/6f
+*color2: rgb:16/6b/8c
+*color3: rgb:7b/4f/85
+*color4: rgb:00/84/86
+*color5: rgb:c7/81/d1
+*color6: rgb:90/83/9c
+*color7: rgb:dd/dd/dd
+*color8: rgb:5d/5d/5d
+*color9: rgb:bd/2b/83
+*color10: rgb:2a/7f/a0
+*color11: rgb:8f/63/99
+*color12: rgb:06/98/9a
+*color13: rgb:db/95/e5
+*color14: rgb:a4/97/b0
+*color15: rgb:f8/f8/f8
+
+rofi.location:          0
+rofi.color-enabled:     true
+!                       'background', 'border'
+rofi.color-window:      argb:dc282828, argb:dc282828
+! State:                'bg',          'fg',   'bgalt',       'hlbg',        'hlfg'
+rofi.color-normal:      argb:00333333, #ffffff, argb:00333333, argb:00333333, argb:ffefa211
+rofi.color-urgent:      argb:00333333, #ffffff, argb:00333333, argb:00333333, argb:ffefa211
+rofi.color-active:      argb:00333333, #ffffff, argb:00333333, argb:00333333, argb:ffefa211
+rofi.separator-style:   dash
+rofi.fullscreen:        true
+rofi.padding:           130
+rofi.hide-scrollbar:    true
+rofi.line-margin:       5
+rofi.fake-transparency: false
+rofi.yoffset:           0
+rofi.xoffset:           0
+rofi.width:             1366
+rofi.opacity:           90
+!rofi.font: SourceCodePro-Regular 12
+!rofi.font: dina 12
+!rofi.font: fkp 12
+rofi.font: artwiz lemon 9

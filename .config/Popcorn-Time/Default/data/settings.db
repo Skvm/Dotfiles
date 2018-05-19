@@ -1,0 +1,25 @@
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"","order":-1}},"_id":"0mpfZMB8t0Sbc6qo"}
+{"key":"lastWatchedTime","value":false,"_id":"4YFxUY6KCWxRM7f1"}
+{"key":"releaseName","value":"Popcorn is Love","_id":"8nQshx6x9SXIKnbK"}
+{"key":"lastWatchedTitle","value":"Daddy's Home","_id":"EpiKMzNwcMZmPOKT"}
+{"key":"disclaimerAccepted","value":1,"_id":"HHAfNA2y4AjcBPFB"}
+{"key":"version","value":"0.3.10","_id":"Mu0xjPu7bkrKUSha"}
+{"key":"ipAddress","value":"192.168.0.13","_id":"SHiQwdcLfgts1bgu"}
+{"key":"arch","value":"x64","_id":"U6r8PupwEp9MoO0t"}
+{"key":"totalDownloaded","value":3678473698,"_id":"cLHg6d8zpUVWLRpB"}
+{"key":"language","value":"en","_id":"eS8VYfkuXqlFA2Zj"}
+{"key":"totalUploaded","value":14761984,"_id":"m260Vro05O9cRlaC"}
+{"key":"playerVolume","value":"1.0","_id":"noju4PIZh2Mi5SM8"}
+{"key":"os","value":"linux","_id":"oc3kZ6FFwMPwYe44"}
+{"key":"subtitle_language","value":"en","_id":"zPoKJIJv5lt4CYuq"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.3.10","_id":"Mu0xjPu7bkrKUSha"}
+{"key":"releaseName","value":"Popcorn is Love","_id":"8nQshx6x9SXIKnbK"}
+{"key":"arch","value":"x64","_id":"U6r8PupwEp9MoO0t"}
+{"key":"os","value":"linux","_id":"oc3kZ6FFwMPwYe44"}
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"","order":-1}},"_id":"0mpfZMB8t0Sbc6qo"}
+{"key":"playerVolume","value":"1.0","_id":"noju4PIZh2Mi5SM8"}
+{"key":"playerVolume","value":"0.9","_id":"noju4PIZh2Mi5SM8"}
+{"key":"playerVolume","value":"1.0","_id":"noju4PIZh2Mi5SM8"}
+{"key":"playerVolume","value":"0.9","_id":"noju4PIZh2Mi5SM8"}
+{"key":"playerVolume","value":"1.0","_id":"noju4PIZh2Mi5SM8"}
