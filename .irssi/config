@@ -401,7 +401,7 @@ statusbar = {
   };
 };
 settings = {
-  core = { real_name = "Unknown"; user_name = "wrench"; nick = "wrench"; };
+  core = { real_name = "Unknown"; user_name = ""; nick = ""; };
   "fe-text" = { actlist_sort = "refnum"; };
   "fe-common/core" = { theme = "cool"; };
 };
